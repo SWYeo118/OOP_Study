@@ -8,16 +8,21 @@
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_Study/Audience.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_Study/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_Study/Invitation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_Study/Theater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_Study/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_Study/TicketOffice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OOP_Study/TicketSeller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chap2/DiscountPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chap2/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chap2/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chap2/Reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chap2/Screening.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOP_Study/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP_Study/Audience.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chap1/Audience.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP_Study/Bag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chap1/Bag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP_Study/Invitation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chap1/Invitation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP_Study/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chap1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP_Study/Theater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chap1/Theater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP_Study/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chap1/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP_Study/TicketOffice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chap1/TicketOffice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOP_Study/TicketSeller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Chap1/TicketSeller.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,13 +77,26 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOP_Study.Main" />
-      <module name="untitled" />
+      <module name="OOP_Study" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="OOP_Study.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="OOP_Study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="OOP_Study" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,7 +115,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677119481431</updated>
-      <workItem from="1677119482563" duration="7136000" />
+      <workItem from="1677119482563" duration="11282000" />
     </task>
     <servers />
   </component>

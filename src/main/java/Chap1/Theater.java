@@ -1,4 +1,4 @@
-package OOP_Study;
+package Chap1;
 
 public class Theater {
     private TicketSeller ticketSeller;

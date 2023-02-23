@@ -1,7 +1,6 @@
-package OOP_Study;
+package Chap1;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class TicketOffice {

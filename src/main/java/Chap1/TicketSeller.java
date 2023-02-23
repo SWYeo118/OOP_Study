@@ -1,4 +1,4 @@
-package OOP_Study;
+package Chap1;
 
 public class TicketSeller {
     private TicketOffice ticketOffice;

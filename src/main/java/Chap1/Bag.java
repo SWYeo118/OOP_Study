@@ -1,14 +1,11 @@
-package OOP_Study;
+package Chap1;
 
 public class Bag {
 
     private Long amount;
     private Invitation invitation;
     private Ticket ticket;
-    public Bag(Invitation invitation, long amount) {
-        this.invitation = invitation;
-        this.amount = amount;
-    }
+
 
     public Long hold(Ticket ticket) {
         if (hasInvitation()) {

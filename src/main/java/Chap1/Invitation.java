@@ -1,6 +1,7 @@
-package OOP_Study;
+package Chap1;
 
 import java.time.LocalDateTime;
 
 public class Invitation {
-    private LocalDateTime when
+    private LocalDateTime when;
+}
